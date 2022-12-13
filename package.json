@@ -25,7 +25,7 @@
     "@runnerty/notifier-console": "^1.0.0",
     "@runnerty/trigger-schedule": "^2.0.0",
     "@runnerty/trigger-server": "0.0.1",
-    "runnerty": "^2.6.3"
+    "runnerty": "^3.3.4"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
